@@ -1,17 +1,10 @@
-# Woolgens Web Library
+# Prismarin Component Library
 
-Welcome to the Woolgens Web Library. In this repository you will find a collection
-of usefull react components and functions to help you interact with our APIs. 
+Welcome to the Prismarin Component Library. In this repository you will find a collection
+of usefull react components to use in other projects. 
 
-Below you will find a development guide for extending the library as well as a guide to adding the
-package to existing projects.
-
-## Installation
-
-```shell
-yarn add @woolgens/web-library
-npm install @woolgens/web-library
-```
+In order to use a component copy the component folder into your own project. You can copy the story if your other project uses StoryBook.
+Below you will find a development guide for extending the library.
 
 ## Development
 When developing a new Component create a new folder for the component in the `/components` folder.
